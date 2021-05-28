@@ -1,0 +1,76 @@
+#body{
+	text-align:center;
+	font-size:22px;
+	background-image:url("111.jpg");
+	background-size:cover;
+
+}
+#table{
+	margin-left:30%;
+	background-color:yellow;
+	
+}
+#mon{
+	font-size:20px;
+}
+#tue{
+	font-size:15px;
+}
+#wed{
+	font-size:20px;
+}
+#thu{
+	font-size:15px;
+}
+#fri{
+	font-size:20px;
+}
+
+#blank{
+	background-color:powderblue;
+}
+#gned12{
+	text-align:center;
+	background-color:pink;
+	font-size:12px;
+}
+#comprog{
+	background-color:green;
+	text-align:center;
+	font-size:12px;
+}
+#itec{
+	background-color:lightgreen;
+	text-align:center;
+	font-size:12px;
+}
+#fitt{
+	text-align:center;
+	background-color:yellow;
+	font-size:12px;
+}
+#science{
+	text-align:center;
+	background-color:#ecffb3;
+	font-size:12px;
+}
+#math{
+	text-align:center;
+	background-color:#dfbf9f;
+	font-size:12;
+}
+#intro{
+	text-align:center;
+	background-color: #f2ccff;
+	font-size:12;
+}
+#comprog1{
+	text-align:center;
+	background-color: #99ffff;
+	font-size:12;
+}
+#art{
+	text-align:center;
+	background-color:#adad85;
+	font-size:12;
+}
